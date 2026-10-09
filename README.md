@@ -1,6 +1,6 @@
 # Joe Page 👨‍💻
 
-Senio software engineer
+Senior software engineer
 
 I've been a developer for 20+ years. I am passionate about the products I work on and work to make them the best in class. AI has undoubtedly changed the programming landscape forever, and I'm embracing it head-on. I know what I want in an app and AI allows me to get there many times faster than doing it myself. While that also means anyone can create an app from scratch today, I know what features should look like, how to provide excellent support, and how to keep the code from getting unmanageable. I will NEVER release AI SLOP. Software works differently for everyone so maintaining it is critical for making it last.
 
